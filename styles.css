@@ -19,3 +19,6 @@ header, nav, main, footer { padding: 1rem; }
 @media only screen and (min-width: 1200px) {
   main {background: red;}
 }
+
+h1 {color:pink;}
+
